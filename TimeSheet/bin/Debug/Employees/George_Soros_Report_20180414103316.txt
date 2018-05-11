@@ -1,0 +1,12 @@
+Munkaidő nyilvántartás
+
+
+George Soros 2018 április hónapjában 7 órát dolgozott.
+
+
+Projektenként részletezve:
+
+
+   Projekt            Óra
+JavaScript              3
+       CSS              4

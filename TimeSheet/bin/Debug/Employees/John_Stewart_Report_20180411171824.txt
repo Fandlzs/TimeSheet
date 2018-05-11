@@ -1,0 +1,12 @@
+Munkaidő nyilvántartás
+
+
+John Stewart 2018 4.hónapjában 5 órát dolgozott.
+
+
+Projektenként részletezve:
+
+
+   Projekt            Óra
+        C#              4
+      Java              1

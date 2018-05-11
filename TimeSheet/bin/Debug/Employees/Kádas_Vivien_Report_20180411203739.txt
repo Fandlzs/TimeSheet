@@ -1,0 +1,12 @@
+Munkaidő nyilvántartás
+
+
+Kádas Vivien 2018 4.hónapjában 8 órát dolgozott.
+
+
+Projektenként részletezve:
+
+
+   Projekt            Óra
+      HTML              4
+       C++              4

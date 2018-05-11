@@ -1,0 +1,19 @@
+﻿<Window x:Class="TimeSheet.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TimeSheet"
+        mc:Ignorable="d"
+        Title="TimeSheet" Height="450" Width="528.724" Loaded="Window_Loaded" Background="#FFCDCDCD">
+    <Grid Margin="0,0,23,0">
+        <Button x:Name="BtnCreateEmployee" Content="Create Employee" HorizontalAlignment="Left" Margin="27,34,0,0" VerticalAlignment="Top" Width="113" Click="BtnCreateEmployee_Click"/>
+        <DataGrid x:Name="ListOfEmployees" HorizontalAlignment="Left" Height="247" Margin="27,148,0,0" VerticalAlignment="Top" Width="264" Background="#FFE0E0E0"/>
+        <Button x:Name="BtnProjectCreate" Content="Create Project" HorizontalAlignment="Left" Margin="27,73,0,0" VerticalAlignment="Top" Width="113" Click="BtnProjectCreate_Click"/>
+        <Button x:Name="BtnRefresh" Content="Refresh" HorizontalAlignment="Left" Margin="118,121,0,0" VerticalAlignment="Top" Width="75" Click="BtnRefresh_Click"/>
+        <Button x:Name="BtnWorkTimeCreate" Content="Add WorkTime" HorizontalAlignment="Left" Margin="171,34,0,0" VerticalAlignment="Top" Width="120" Click="BtnWorkTimeCreate_Click"/>
+        <Button x:Name="BtnReports" Content="Reports" HorizontalAlignment="Left" Margin="171,73,0,0" VerticalAlignment="Top" Width="120" Click="BtnReports_Click"/>
+        <Image Margin="338,148,0,112" Source="TimeSheet.jpg" Stretch="Fill"/>
+
+    </Grid>
+</Window>

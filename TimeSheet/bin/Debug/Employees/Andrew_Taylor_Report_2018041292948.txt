@@ -1,0 +1,12 @@
+Munkaidő nyilvántartás
+
+
+Andrew Taylor 2018 április.hónapjában 6 órát dolgozott.
+
+
+Projektenként részletezve:
+
+
+   Projekt            Óra
+      HTML              3
+       CSS              3

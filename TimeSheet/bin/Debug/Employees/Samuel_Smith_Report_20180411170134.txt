@@ -1,0 +1,13 @@
+Timesheet
+
+
+
+
+Samuel Smith worked 1 hour in the 4.month of 2018
+
+
+
+
+Itemize as projects:
+Project        Hour
+Java         1

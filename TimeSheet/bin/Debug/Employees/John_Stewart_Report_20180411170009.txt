@@ -1,0 +1,13 @@
+Timesheet
+
+
+
+
+John Stewart worked 4 hour in the 4.month of 2018
+
+
+
+
+Itemize as projects:
+Project        Hour
+C#         4
